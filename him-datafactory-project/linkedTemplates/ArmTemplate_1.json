@@ -57,7 +57,7 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2026-07-05T06:40:58Z"
+				"lastPublishTime": "2026-07-05T10:40:07Z"
 			},
 			"dependsOn": []
 		},
@@ -272,7 +272,7 @@
 					}
 				},
 				"annotations": [],
-				"lastPublishTime": "2026-07-05T06:40:58Z"
+				"lastPublishTime": "2026-07-05T10:40:07Z"
 			},
 			"dependsOn": []
 		},
@@ -567,7 +567,7 @@
 					}
 				},
 				"annotations": [],
-				"lastPublishTime": "2026-07-05T06:40:58Z"
+				"lastPublishTime": "2026-07-05T10:40:07Z"
 			},
 			"dependsOn": []
 		},
@@ -1207,7 +1207,7 @@
 					}
 				},
 				"annotations": [],
-				"lastPublishTime": "2026-07-05T06:40:59Z"
+				"lastPublishTime": "2026-07-05T10:40:08Z"
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/pipelines/onprem_ingestion')]",
@@ -1266,7 +1266,7 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2026-07-05T06:40:58Z"
+				"lastPublishTime": "2026-07-05T10:40:07Z"
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/dataflows/DataTransformation')]"
